@@ -38,3 +38,17 @@ THEN the saved events persist
 5. Open console page and see the data is stored in local storage
 6. Refresh the page - observe the data still exists
 
+## Link 
+
+The following links lead to gitgub repository with my project and application live URL.
+
+https://github.com/tatiana404/TimeTable_challenge
+https://tatiana404.github.io/TimeTable_challenge/
+## Screenshot
+
+
+## Credits
+N/A
+
+## License
+MIT license 
